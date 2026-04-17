@@ -17,7 +17,7 @@ This perspective drives the projects I work on and the way I approach learning.
 ## 🛠️ Projects
 
 - [PseudoCompiler](https://github.com/idris-p/PseudoCompiler) - a configurable pseudocode editor and interpreter
-- [Formula One Strategy Viewer](https://github.com/idris-p/F1-Strategy-Viewer) - visualise the race strategies, tyre usage, stint lengths, and pit stop timing of drivers from F1 Grand Prix
+- [Formula One Strategy Analyser](https://github.com/idris-p/F1-Strategy-Viewer) - visualise the race strategies, tyre usage, stint lengths, and pit stop timing of drivers from F1 Grand Prix
 - [Chess Escape](https://github.com/idris-p/Chess-Escape) - a chess puzzle game made with the constraint of not being able to use a game engine
 - [Graphing Calculator](https://github.com/idris-p/Graphing-Calculator) - a graphing calculator application featuring a calculus problem solver
 
