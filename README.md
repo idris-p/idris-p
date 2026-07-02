@@ -24,20 +24,10 @@ This perspective drives the projects I work on and the way I approach learning.
 
 ---
 
-## 📈 What I’m Currently Focused On
-
-- Building projects with **real-world impact**
-- Improving my ability to write **clean, scalable code**
-- Exploring the intersection of **maths, systems, and software engineering**
-
-
----
-
 ## 🎯 Career Goals
 
-I’m looking to grow into a **well-rounded software engineer**, with a strong foundation in both:
-- **theoretical problem-solving**, and  
-- **practical system design**
+- Turn ideas into real products by building software that genuinely helps people and makes a difference.
+- Develop into a **well-rounded software engineer** capable of handling real-world problems and building solid, reliable solutions.
 
 ---
 
