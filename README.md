@@ -35,3 +35,5 @@ This perspective drives the projects I work on and the way I approach learning.
 ## 📫 Contact
 
 - [Email](mailto:idrispopoola05@gmail.com)
+- [Reddit](https://www.reddit.com/user/idris--p/)
+- [X/Twitter](https://x.com/idris__p)
