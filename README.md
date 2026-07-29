@@ -34,5 +34,4 @@ This perspective drives the projects I work on and the way I approach learning.
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/idris-popoola-a34465246/)
 - [Email](mailto:idrispopoola05@gmail.com)
