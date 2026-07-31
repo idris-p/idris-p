@@ -16,7 +16,7 @@ This perspective drives the projects I work on and the way I approach learning.
 
 ## 🛠️ Projects
 
-- [Rush Hour](https://github.com/idris-p/Rush-Hour) - a speedrunning game where you traverse the London Underground network as quickly as possible
+- [Rush Hour](https://rush-hour-speedrun.vercel.app) - a speedrunning game where you traverse the London Underground network as quickly as possible
 - [PseudoCompiler](https://github.com/idris-p/PseudoCompiler) - a configurable pseudocode editor and interpreter
 - [Super Mario Bros. C++ Clone](https://github.com/idris-p/mario-bros-clone) - a clone of Super Mario Bros. 1-1 developed using C++ and raylib
 - [Formula One Strategy Analyser](https://github.com/idris-p/F1-Strategy-Viewer) - visualise the race strategies, tyre usage, stint lengths, and pit stop timing of drivers from F1 Grand Prix
